@@ -1,4 +1,4 @@
-<h1>Hey, I am Maruf🥷🏽</h1>
+<!--<h1>Hey, I am Maruf🥷🏽</h1>
 
 # ✨ About Me:
 <p>Hello, I'm Maruf Sherefa, a Full-Stack Software Engineer based in Addis Ababa, Ethiopia. With over 5 years of experience in web and mobile application development, including remote work, I have a proven track record of delivering high-quality, scalable solutions using a variety of technologies and frameworks.</p><p>I have worked as a Full-Stack Engineer on various remote projects, including the development of mobile applications using Flutter and React Native, as well as web applications using React.js and TypeScript. I am proficient in TypeScript, JavaScript, C#, Python, Java, Kotlin, React, React Native, Svelte, Flutter, Node.js, Spring Boot, .NET, Unity, PostgreSQL, MongoDB, Docker, and Testing. I have experience working with both frontend and backend technologies, as well as in DevOps and database administration. As a developer, I am passionate about solving complex problems and creating user-friendly interfaces that provide a seamless user experience. I am a quick learner and always eager to learn new technologies and techniques to improve my skills and knowledge.</p><p>I am looking for new opportunities to work with software engineering recruiters abroad, where I can leverage my skills and experience to contribute to innovative projects and work with a talented team. Whether it's remote work or in-person, I am always committed to delivering high-quality solutions that meet the needs of my clients and users. If you are looking for a skilled and dedicated software engineer who is passionate about technology and constantly striving to improve, please don't hesitate to contact me.</p>
@@ -27,7 +27,7 @@
  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
  ![Testing](https://img.shields.io/badge/testing-%23575E8B.svg?style=for-the-badge&logo=cypress&logoColor=white)
-
+-->
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=maruf-s&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=maruf-s&theme=dark&hide_border=false)<br/>
